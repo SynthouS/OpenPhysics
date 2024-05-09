@@ -15,6 +15,8 @@ LMB - Spawn a square
 
 RMB - Spawn a circle
 
+C - delete ALL objects in map
+
 # Authors
 - [Synthous](t.me/SynthouS)
 
