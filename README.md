@@ -17,6 +17,8 @@ RMB - Spawn a circle
 
 C - delete ALL objects in map
 
+ESC - exit
+
 # Authors
 - [Synthous](t.me/SynthouS)
 
