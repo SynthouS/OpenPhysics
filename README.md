@@ -1,5 +1,5 @@
 # OpenPhysics
-![App Screenshot](img/icon.png)
+![App Screenshot](img/screenshot.PNG)
 
 It's a physical 2D engine made in Python 
 
