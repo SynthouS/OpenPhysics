@@ -7,14 +7,14 @@
 
 It's a physical 2D engine made in Python
 
-# Install
+<h4>Installing</h4>
 u need python 3.10+
 
 ```pip install pygame```
 
 ```pip install pymunk```
 
-# Controlls
+<h4>Controls</h4>
 LMB - Spawn a square
 
 RMB - Spawn a circle
@@ -23,7 +23,7 @@ C - delete ALL objects in map
 
 ESC - exit
 
-# Authors
+<h4>Authors</h4>
 - [Synthous](t.me/SynthouS)
 
 - [DTF Forum](dtf.ru)
