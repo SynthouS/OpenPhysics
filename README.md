@@ -17,17 +17,13 @@ u need python 3.10+
 <h4>Controls</h4>
 LMB - Spawn a square
 
+Mouse Wheel - spawn a triangle
+
 RMB - Spawn a circle
 
 C - delete ALL objects in map
 
 ESC - exit
-
-<h4>Screenshots</h4>
-
-![App Screenshot](img/screenshot2.PNG)
-
-![App Screenshot](img/screenshot3.PNG)
 
 <h4>Authors</h4>
 - [Synthous](t.me/SynthouS)
