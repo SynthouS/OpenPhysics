@@ -26,6 +26,7 @@ C - delete ALL objects in map
 ESC - exit
 
 <h4>Authors</h4>
+
 - [Synthous](t.me/SynthouS)
 
 - [DTF Forum](dtf.ru)
