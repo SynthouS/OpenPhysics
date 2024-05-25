@@ -28,6 +28,8 @@ ESC - exit
 <h4>Authors</h4>
 
 - [Synthous](t.me/SynthouS)
+  
+- [Kolddx]
 
 - [DTF Forum](dtf.ru)
 
