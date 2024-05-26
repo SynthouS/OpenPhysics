@@ -1,5 +1,5 @@
 # OpenPhysics
-![App Screenshot](img/screenshot.PNG)
+![App Screenshot](assets/img/screenshot.PNG)
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/)
 ![downloads](https://img.shields.io/github/downloads/gooseURL/OpenPhysics/total)
