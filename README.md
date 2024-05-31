@@ -29,7 +29,7 @@ ESC - exit
 
 - [Synthous](t.me/SynthouS)
   
-- [Kolddx]
+- Flowka
 
 - [DTF Forum](dtf.ru)
 
