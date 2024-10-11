@@ -26,7 +26,7 @@ def draw_text(surface, text, position, font_size=30, alpha=255, center=False, co
 def text_render():
     draw_text(surface, f'Objects: {len(space.shapes) - 1}', (10, 40), font_size=25)
     draw_text(surface, 'Version: 4.0', (10, 70), font_size=25,)
-    draw_text(surface, 'silkworm studio', (500, 10), font_size=40, alpha=50)
+    draw_text(surface, 'Made NoUser Studio', (500, 10), font_size=40, alpha=50)
     draw_text(surface, f'FPS: {clock.get_fps():.2f}', (10, 10), font_size=25)
 
 notifications = []
