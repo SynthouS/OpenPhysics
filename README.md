@@ -24,13 +24,3 @@ RMB - Spawn a circle
 C - delete ALL objects in map
 
 ESC - exit
-
-<h4>Authors</h4>
-
-- [Synthous](t.me/SynthouS)
-  
-- Flowka
-
-- [DTF Forum](dtf.ru)
-
-- [ChatGPT](https://chat.openai.com/)
